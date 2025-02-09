@@ -30,3 +30,7 @@ if for_sale:
     print("You are for sale")
 else:
     print("You are not for sale")
+
+# In If Stats if you want to check if 2 things are true don't use AND.
+#EX:elif score >= 80 <= 89:
+    #print(score, "It's a B")

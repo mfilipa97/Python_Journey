@@ -1,5 +1,5 @@
 #Conditional Expression =
-#           A one-line Shortcut for the if-selse stat
+#           A one-line Shortcut for the if-else stat
 #           Print of assign one of two values based on condition
 #           X if condition else Y
 
