@@ -11,7 +11,7 @@ print("You know that Armando is 56 years old ")
 print("               ")
 time.sleep(1)
 input("Press enter to continue...")
-print("Welcome to BNP Paribas")
+print("Welcome to GMAIL")
 time.sleep(2)
 
 correct_password = "nandos1969"
